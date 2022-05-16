@@ -4,7 +4,7 @@ This repository contains the legal texts of the [Half-Gray Open Licenses](http:/
 
 ## Format
 
-The texts are written using [Mmark](https://mmark.nl/) (version 1), an extension of Markdown that adds syntax for different types of lists (numbers, letters, and Roman numerals), among other things. Version 1, as currently used in Hugo, must be used, as version 2 of Mmark removed this list syntax.
+The texts are written using [Pandoc Markdown](https://pandoc.org/MANUAL.html#pandocs-markdown), which includes an extension that adds syntax for different types of ordered lists (numbers, letters, and Roman numerals).
 
 ## Note About "Released Versions"
 
