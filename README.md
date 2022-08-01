@@ -1,6 +1,6 @@
 # Half-Gray Open Licenses (Legal Texts)
 
-This repository contains the legal texts of the [Half-Gray Open Licenses](http://halfgray.tk/licenses).
+This repository contains the legal texts of the [Half-Gray Open Licenses](https://www.halfgray.xyz/licenses).
 
 ## Format
 
